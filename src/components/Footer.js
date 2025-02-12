@@ -1,5 +1,5 @@
 import React from "react";
-import Image1 from "../asset/logo.png"
+import Image1 from "../asset/logosmp.png"
 import email from "../asset/email.png"
 import youtube from "../asset/youtube.png"
 import instagram from "../asset/instagram.png"

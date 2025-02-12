@@ -6,7 +6,7 @@ import snacktime from "../asset/snacktime.png"
 import belajarsentra from "../asset/belajarsentra.png"
 import makansiang from "../asset/makansiang.png"
 import Afirmasi from "../asset/Afirmasi.png"
-import Murojaah from "../asset/Murojaah.png"
+import murojaah from "../asset/murojaah.png"
 import siswa from "../asset/siswa.png"
 import ikrar from "../asset/ikrar.png"
 import logosmp from "../asset/logosmp.png"
@@ -121,7 +121,7 @@ const AboutPage = () => {
 Meningkatkan prestasi belajar dan Asupan gizi yang cukup dan seimbang dapat meningkatkan daya pikir dan konsentrasi anak.</p>
                 </div>
                 <div className="order-about text-left">
-                <img src={(Murojaah)} className="mb-12"></img>
+                <img src={(murojaah)} className="mb-12"></img>
                   <h1 className="cardText font-bold text-2xl">Murojaah</h1>
                   <p className="mt-6"> Murojaah dilakukan Oleh Siswa SMP Mutiara Hati dilaksankan pada siang hari tujuannya untuk Menjaga hafalan agar tidak mudah hilang karena lupa, Memperkuat pemahaman terhadap materi yang telah dipelajari, Membantu memperbaiki pemahaman dalam tajwid, Membantu meningkatkan daya ingat.></p>
                 </div>
